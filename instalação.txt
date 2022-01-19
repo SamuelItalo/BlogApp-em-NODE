@@ -1,0 +1,5 @@
+1° instalar o express (npm install --save express)
+2° instalar o handlebars (npm install --save express-handlebars)
+3° instalar o body parser (npm install body-parser --save )
+4° instalar o mongoose (npm install --save mongoose)
+
